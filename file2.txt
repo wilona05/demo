@@ -1,2 +1,3 @@
 create di lokal
 edit di remote
+edit di lokal
